@@ -1,1 +1,1 @@
-# House-Renting-System-Demo
+# HRS-Demo
